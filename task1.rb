@@ -8,7 +8,7 @@ class Frequency
     for index in  0..10
       freq[arr[index]]+=1
     end
-    return freq
+    freq
   end
 end
 array=Array.new
